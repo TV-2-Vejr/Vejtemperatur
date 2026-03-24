@@ -128,8 +128,8 @@ def geom_to_lonlat_coords(geom):
 
 # Load data
 print("Indlæser CSV filer...")
-df1 = pd.read_csv("vej_temp_1.csv")
-df2 = pd.read_csv("vej_temp_2.csv")
+df1 = pd.read_csv("vejtemp_1.csv")
+df2 = pd.read_csv("vejtemp_2.csv")
 df = pd.concat([df1, df2], ignore_index=True)
 
 # --- NYT: RENS DATA FOR GRADTEGN ---
