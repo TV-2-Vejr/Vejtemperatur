@@ -2,9 +2,9 @@
 """
 Henter vejtemperaturer fra Trafikkort.
 Outputter 3 filer:
-1. vej_temp_1.csv (Station 1-500)
-2. vej_temp_2.csv (Station 500-slut)
-3. vejtemp_udvalgte.csv (30 faste punkter -> Viser LAVESTE temp fra de 5 nærmeste målere)
+1. vejtemp_1.csv (Station 1-500)
+2. vejtemp_2.csv (Station 500-slut)
+3. udvalgte_vejtemp.csv (30 faste punkter -> Viser LAVESTE temp fra de 5 nærmeste målere)
 
 Opdatering: Tilføjer '°' symbol til temperaturværdierne i outputtet.
 """
@@ -238,9 +238,9 @@ def main():
     df_1 = df_out.iloc[:500].copy()
     df_2 = df_out.iloc[500:].copy()
     
-    df_1.to_csv("vej_temp_1.csv", index=False)
-    df_2.to_csv("vej_temp_2.csv", index=False)
-    print("Gemte vej_temp_1.csv og vej_temp_2.csv med gradtegn.")
+    df_1.to_csv("vejtemp_1.csv", index=False)
+    df_2.to_csv("vejtemp_2.csv", index=False)
+    print("Gemte vejtemp_1.csv og vejtemp_2.csv med gradtegn.")
 
 
     # 4. Behandl DE 30 STABILE STATIONER
@@ -255,8 +255,8 @@ def main():
     # >>> HER FORMATERER VI DEN LILLE FIL <<<
     df_stable_out = format_temperatures(df_stable_out, ["Vej_temp", "Luft_temp", "Dewpoint"])
     
-    df_stable_out.to_csv("vejtemp_udvalgte.csv", index=False)
-    print("Gemte vejtemp_udvalgte.csv med gradtegn.")
+    df_stable_out.to_csv("udvalgte_vejtemp.csv", index=False)
+    print("Gemte udvalgte_vejtemp.csv med gradtegn.")
 
 if __name__ == "__main__":
     main()
