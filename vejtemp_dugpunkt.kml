@@ -129,6 +129,14 @@
                 <outline>0</outline>
             </PolyStyle>
         </Style>
+        <Style id="164">
+            <PolyStyle id="165">
+                <color>fffffbf7</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
         <Placemark id="65">
             <styleUrl>#68</styleUrl>
             <Polygon id="64">
@@ -284,6 +292,16 @@
             <Polygon id="154">
                 <outerBoundaryIs>
                     <LinearRing id="156">
+                        <coordinates>14.89698492462311,55.225291078380735,0.0 14.89698492462311,55.22954474575177,0.0 14.906211944445793,55.225291078380735,0.0 14.89698492462311,55.225291078380735,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="161">
+            <styleUrl>#164</styleUrl>
+            <Polygon id="160">
+                <outerBoundaryIs>
+                    <LinearRing id="162">
                         <coordinates>11.73115577889447,55.609110481676325,0.0 11.73115577889447,55.6264682850196,0.0 11.768844221105526,55.6264682850196,0.0 11.768844221105526,55.609110481676325,0.0 11.73115577889447,55.609110481676325,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
