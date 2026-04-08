@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="63">
-        <Style id="68">
-            <PolyStyle id="69">
-                <color>fff6eadd</color>
+    <Document id="99">
+        <Style id="104">
+            <PolyStyle id="105">
+                <color>fffdf7f2</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
             </PolyStyle>
         </Style>
-        <Style id="74">
-            <PolyStyle id="75">
-                <color>fffaf1e8</color>
+        <Style id="110">
+            <PolyStyle id="111">
+                <color>fff9f0e7</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
             </PolyStyle>
         </Style>
-        <Placemark id="65">
-            <styleUrl>#68</styleUrl>
-            <Polygon id="64">
+        <Placemark id="101">
+            <styleUrl>#104</styleUrl>
+            <Polygon id="100">
                 <outerBoundaryIs>
-                    <LinearRing id="66">
+                    <LinearRing id="102">
                         <coordinates>11.73115577889447,55.20775604439883,0.0 11.73115577889447,55.225291078380735,0.0 11.768844221105526,55.225291078380735,0.0 11.768844221105526,55.20775604439883,0.0 11.73115577889447,55.20775604439883,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
         </Placemark>
-        <Placemark id="71">
-            <styleUrl>#74</styleUrl>
-            <Polygon id="70">
+        <Placemark id="107">
+            <styleUrl>#110</styleUrl>
+            <Polygon id="106">
                 <outerBoundaryIs>
-                    <LinearRing id="72">
+                    <LinearRing id="108">
                         <coordinates>9.997487437185928,57.15742925611452,0.0 9.997487437185928,57.17409545350086,0.0 10.035175879396983,57.17409545350086,0.0 10.035175879396983,57.15742925611452,0.0 9.997487437185928,57.15742925611452,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
