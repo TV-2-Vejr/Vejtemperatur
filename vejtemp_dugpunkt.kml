@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="21">
-        <Style id="26">
-            <PolyStyle id="27">
-                <color>fffbf4ed</color>
-                <colorMode>normal</colorMode>
-                <fill>1</fill>
-                <outline>0</outline>
-            </PolyStyle>
-        </Style>
+    <Document id="27">
         <Style id="32">
             <PolyStyle id="33">
-                <color>fffffbf7</color>
+                <color>fffbf4ec</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -27,7 +19,7 @@
         </Style>
         <Style id="44">
             <PolyStyle id="45">
-                <color>fffbf4ec</color>
+                <color>fffffbf7</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -35,28 +27,42 @@
         </Style>
         <Style id="50">
             <PolyStyle id="51">
+                <color>fffbf4ec</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56">
+            <PolyStyle id="57">
                 <color>fffffbf7</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
             </PolyStyle>
         </Style>
-        <Placemark id="23">
-            <styleUrl>#26</styleUrl>
-            <Polygon id="22">
-                <outerBoundaryIs>
-                    <LinearRing id="24">
-                        <coordinates>11.73115577889447,55.20775604439883,0.0 11.73115577889447,55.225291078380735,0.0 11.768844221105526,55.225291078380735,0.0 11.768844221105526,55.20775604439883,0.0 11.73115577889447,55.20775604439883,0.0</coordinates>
-                    </LinearRing>
-                </outerBoundaryIs>
-            </Polygon>
-        </Placemark>
+        <Style id="62">
+            <PolyStyle id="63">
+                <color>fffffbf7</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="68">
+            <PolyStyle id="69">
+                <color>fffffbf7</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
         <Placemark id="29">
             <styleUrl>#32</styleUrl>
             <Polygon id="28">
                 <outerBoundaryIs>
                     <LinearRing id="30">
-                        <coordinates>10.185929648241205,56.02358062496191,0.0 10.185929648241205,56.04075451276967,0.0 10.223618090452259,56.04075451276967,0.0 10.223618090452259,56.02358062496191,0.0 10.185929648241205,56.02358062496191,0.0</coordinates>
+                        <coordinates>11.73115577889447,55.20775604439883,0.0 11.73115577889447,55.225291078380735,0.0 11.768844221105526,55.225291078380735,0.0 11.768844221105526,55.20775604439883,0.0 11.73115577889447,55.20775604439883,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
@@ -66,7 +72,7 @@
             <Polygon id="34">
                 <outerBoundaryIs>
                     <LinearRing id="36">
-                        <coordinates>10.072864321608039,56.04075451276967,0.0 10.072864321608039,56.05792076045245,0.0 10.110552763819094,56.05792076045245,0.0 10.110552763819094,56.04075451276967,0.0 10.072864321608039,56.04075451276967,0.0</coordinates>
+                        <coordinates>10.185929648241205,56.02358062496191,0.0 10.185929648241205,56.04075451276967,0.0 10.223618090452259,56.04075451276967,0.0 10.223618090452259,56.02358062496191,0.0 10.185929648241205,56.02358062496191,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
@@ -76,7 +82,7 @@
             <Polygon id="40">
                 <outerBoundaryIs>
                     <LinearRing id="42">
-                        <coordinates>10.185929648241205,56.382630326007465,0.0 10.185929648241205,56.39964416402053,0.0 10.223618090452259,56.39964416402053,0.0 10.223618090452259,56.382630326007465,0.0 10.185929648241205,56.382630326007465,0.0</coordinates>
+                        <coordinates>10.072864321608039,56.04075451276967,0.0 10.072864321608039,56.05792076045245,0.0 10.110552763819094,56.05792076045245,0.0 10.110552763819094,56.04075451276967,0.0 10.072864321608039,56.04075451276967,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
@@ -86,7 +92,37 @@
             <Polygon id="46">
                 <outerBoundaryIs>
                     <LinearRing id="48">
+                        <coordinates>10.185929648241205,56.382630326007465,0.0 10.185929648241205,56.39964416402053,0.0 10.223618090452259,56.39964416402053,0.0 10.223618090452259,56.382630326007465,0.0 10.185929648241205,56.382630326007465,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="53">
+            <styleUrl>#56</styleUrl>
+            <Polygon id="52">
+                <outerBoundaryIs>
+                    <LinearRing id="54">
                         <coordinates>10.072864321608039,56.83934169072788,0.0 10.072864321608039,56.856150981358795,0.0 10.110552763819094,56.856150981358795,0.0 10.110552763819094,56.83934169072788,0.0 10.072864321608039,56.83934169072788,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="59">
+            <styleUrl>#62</styleUrl>
+            <Polygon id="58">
+                <outerBoundaryIs>
+                    <LinearRing id="60">
+                        <coordinates>9.922110552763817,57.04055538490325,0.0 9.922110552763817,57.05727421845941,0.0 9.959798994974873,57.05727421845941,0.0 9.959798994974873,57.04055538490325,0.0 9.922110552763817,57.04055538490325,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="65">
+            <styleUrl>#68</styleUrl>
+            <Polygon id="64">
+                <outerBoundaryIs>
+                    <LinearRing id="66">
+                        <coordinates>10.261306532663314,57.50584461378132,0.0 10.261306532663314,57.52235348591027,0.0 10.29899497487437,57.52235348591027,0.0 10.29899497487437,57.50584461378132,0.0 10.261306532663314,57.50584461378132,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
