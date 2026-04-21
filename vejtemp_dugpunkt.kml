@@ -3,7 +3,7 @@
     <Document id="57">
         <Style id="62">
             <PolyStyle id="63">
-                <color>fffaf2e9</color>
+                <color>fffaf1e8</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -27,7 +27,7 @@
         </Style>
         <Style id="80">
             <PolyStyle id="81">
-                <color>ffeed9c3</color>
+                <color>ffedd9c1</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -35,7 +35,7 @@
         </Style>
         <Style id="86">
             <PolyStyle id="87">
-                <color>fffbf3ec</color>
+                <color>fffbf3eb</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -43,7 +43,7 @@
         </Style>
         <Style id="92">
             <PolyStyle id="93">
-                <color>fff8ede2</color>
+                <color>fff8ede1</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -51,7 +51,7 @@
         </Style>
         <Style id="98">
             <PolyStyle id="99">
-                <color>ffdfc798</color>
+                <color>ffdfc697</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -67,7 +67,7 @@
         </Style>
         <Style id="110">
             <PolyStyle id="111">
-                <color>fffffbf7</color>
+                <color>fffefaf6</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
