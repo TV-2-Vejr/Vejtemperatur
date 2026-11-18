@@ -1,4 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="3"/>
+    <Document id="21">
+        <Style id="26">
+            <PolyStyle id="27">
+                <color>fffdf7f1</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="32">
+            <PolyStyle id="33">
+                <color>fff9efe4</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="38">
+            <PolyStyle id="39">
+                <color>fffffbf7</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="44">
+            <PolyStyle id="45">
+                <color>fffffbf7</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="50">
+            <PolyStyle id="51">
+                <color>fffffbf7</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>0</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="23">
+            <styleUrl>#26</styleUrl>
+            <Polygon id="22">
+                <outerBoundaryIs>
+                    <LinearRing id="24">
+                        <coordinates>8.565326633165828,56.21207349127454,0.0 8.565326633165828,56.22916344024578,0.0 8.603015075376883,56.22916344024578,0.0 8.603015075376883,56.21207349127454,0.0 8.565326633165828,56.21207349127454,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="29">
+            <styleUrl>#32</styleUrl>
+            <Polygon id="28">
+                <outerBoundaryIs>
+                    <LinearRing id="30">
+                        <coordinates>8.603015075376883,56.21207349127454,0.0 8.603015075376883,56.22916344024578,0.0 8.640703517587939,56.22916344024578,0.0 8.640703517587939,56.21207349127454,0.0 8.603015075376883,56.21207349127454,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="35">
+            <styleUrl>#38</styleUrl>
+            <Polygon id="34">
+                <outerBoundaryIs>
+                    <LinearRing id="36">
+                        <coordinates>8.603015075376883,56.22916344024578,0.0 8.603015075376883,56.24624576964136,0.0 8.640703517587939,56.24624576964136,0.0 8.640703517587939,56.22916344024578,0.0 8.603015075376883,56.22916344024578,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="41">
+            <styleUrl>#44</styleUrl>
+            <Polygon id="40">
+                <outerBoundaryIs>
+                    <LinearRing id="42">
+                        <coordinates>9.243718592964823,56.755181937238106,0.0 9.243718592964823,56.77202900111353,0.0 9.281407035175878,56.77202900111353,0.0 9.281407035175878,56.755181937238106,0.0 9.243718592964823,56.755181937238106,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="47">
+            <styleUrl>#50</styleUrl>
+            <Polygon id="46">
+                <outerBoundaryIs>
+                    <LinearRing id="48">
+                        <coordinates>9.507537688442211,57.14075554519083,0.0 9.507537688442211,57.15742925611452,0.0 9.545226130653266,57.15742925611452,0.0 9.545226130653266,57.14075554519083,0.0 9.507537688442211,57.14075554519083,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
 </kml>
