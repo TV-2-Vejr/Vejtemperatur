@@ -3,7 +3,7 @@
     <Document id="1">
         <Style id="6">
             <PolyStyle id="7">
-                <color>fffaf2e9</color>
+                <color>fffaf1e8</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -43,7 +43,7 @@
         </Style>
         <Style id="36">
             <PolyStyle id="37">
-                <color>fffefaf6</color>
+                <color>fffef9f5</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -67,7 +67,7 @@
         </Style>
         <Style id="54">
             <PolyStyle id="55">
-                <color>fffbf4ec</color>
+                <color>fffbf3ec</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -147,7 +147,7 @@
         </Style>
         <Style id="114">
             <PolyStyle id="115">
-                <color>fffcf5ee</color>
+                <color>fffbf4ed</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -163,7 +163,7 @@
         </Style>
         <Style id="126">
             <PolyStyle id="127">
-                <color>fffbf3ec</color>
+                <color>fffbf3eb</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -187,7 +187,7 @@
         </Style>
         <Style id="144">
             <PolyStyle id="145">
-                <color>fffdf7f1</color>
+                <color>fffcf6f0</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -195,7 +195,7 @@
         </Style>
         <Style id="150">
             <PolyStyle id="151">
-                <color>fff5e8da</color>
+                <color>fff5e7d9</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -211,7 +211,7 @@
         </Style>
         <Style id="162">
             <PolyStyle id="163">
-                <color>fffdf7f1</color>
+                <color>fffcf6f0</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -219,7 +219,7 @@
         </Style>
         <Style id="168">
             <PolyStyle id="169">
-                <color>fffdf7f1</color>
+                <color>fffcf6f0</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -227,7 +227,7 @@
         </Style>
         <Style id="174">
             <PolyStyle id="175">
-                <color>fffbf4ec</color>
+                <color>fffbf3ec</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -235,7 +235,7 @@
         </Style>
         <Style id="180">
             <PolyStyle id="181">
-                <color>fffbf4ec</color>
+                <color>fffbf3ec</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -243,7 +243,7 @@
         </Style>
         <Style id="186">
             <PolyStyle id="187">
-                <color>fff9f0e7</color>
+                <color>fff9f0e6</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -267,7 +267,7 @@
         </Style>
         <Style id="204">
             <PolyStyle id="205">
-                <color>fffefaf6</color>
+                <color>fffef9f5</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -291,7 +291,7 @@
         </Style>
         <Style id="222">
             <PolyStyle id="223">
-                <color>fff8eee4</color>
+                <color>fff8eee3</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -299,7 +299,7 @@
         </Style>
         <Style id="228">
             <PolyStyle id="229">
-                <color>fffdf7f1</color>
+                <color>fffcf6f0</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -307,7 +307,7 @@
         </Style>
         <Style id="234">
             <PolyStyle id="235">
-                <color>fffdf7f1</color>
+                <color>fffcf6f0</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -315,7 +315,7 @@
         </Style>
         <Style id="240">
             <PolyStyle id="241">
-                <color>fffef9f5</color>
+                <color>fffef9f4</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -323,7 +323,7 @@
         </Style>
         <Style id="246">
             <PolyStyle id="247">
-                <color>fffdf7f1</color>
+                <color>fffcf6f0</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -339,7 +339,7 @@
         </Style>
         <Style id="258">
             <PolyStyle id="259">
-                <color>fffffbf7</color>
+                <color>fffefaf6</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -347,7 +347,7 @@
         </Style>
         <Style id="264">
             <PolyStyle id="265">
-                <color>fffbf4ed</color>
+                <color>fffbf4ec</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
