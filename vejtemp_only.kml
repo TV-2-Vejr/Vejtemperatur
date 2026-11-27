@@ -11,7 +11,7 @@
         </Style>
         <Style id="12">
             <PolyStyle id="13">
-                <color>fff9efe4</color>
+                <color>fff9efe5</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -19,7 +19,7 @@
         </Style>
         <Style id="18">
             <PolyStyle id="19">
-                <color>fffdf7f2</color>
+                <color>fffdf8f3</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -27,7 +27,7 @@
         </Style>
         <Style id="24">
             <PolyStyle id="25">
-                <color>fffdf7f2</color>
+                <color>fffdf8f3</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -51,7 +51,7 @@
         </Style>
         <Style id="42">
             <PolyStyle id="43">
-                <color>fffef9f4</color>
+                <color>fffef9f5</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -68,14 +68,6 @@
         <Style id="54">
             <PolyStyle id="55">
                 <color>fffefaf6</color>
-                <colorMode>normal</colorMode>
-                <fill>1</fill>
-                <outline>0</outline>
-            </PolyStyle>
-        </Style>
-        <Style id="60">
-            <PolyStyle id="61">
-                <color>fff9efe5</color>
                 <colorMode>normal</colorMode>
                 <fill>1</fill>
                 <outline>0</outline>
@@ -167,16 +159,6 @@
                 <outerBoundaryIs>
                     <LinearRing id="52">
                         <coordinates>8.263819095477386,56.382630326007465,0.0 8.263819095477386,56.39964416402053,0.0 8.301507537688442,56.39964416402053,0.0 8.301507537688442,56.382630326007465,0.0 8.263819095477386,56.382630326007465,0.0</coordinates>
-                    </LinearRing>
-                </outerBoundaryIs>
-            </Polygon>
-        </Placemark>
-        <Placemark id="57">
-            <styleUrl>#60</styleUrl>
-            <Polygon id="56">
-                <outerBoundaryIs>
-                    <LinearRing id="58">
-                        <coordinates>9.997487437185928,57.15742925611452,0.0 9.997487437185928,57.17409545350086,0.0 10.035175879396983,57.17409545350086,0.0 10.035175879396983,57.15742925611452,0.0 9.997487437185928,57.15742925611452,0.0</coordinates>
                     </LinearRing>
                 </outerBoundaryIs>
             </Polygon>
